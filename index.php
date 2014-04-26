@@ -26,19 +26,6 @@
 
 	<br /><br /><br />
 
-	
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- SHRTNR -->
-<ins class="adsbygoogle"
- style="display:inline-block;width:728px;height:90px"
- data-ad-client="ca-pub-9209348786221882"
- data-ad-slot="8380781663"></ins>
-<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br /><br /><br />	
-	
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript">
 	$(function () {
@@ -85,16 +72,6 @@
 		});			
 	});
 	</script>
-<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-15403368-16', 'shrtnr.net');
-	ga('send', 'pageview');
-
-</script>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
