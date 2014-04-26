@@ -48,7 +48,7 @@
 				$.post( "shrtn.php", { url:  $('#lngurl').val() }, function( data ) {
 					$( "#lngurl" ).val( data );
 					$('#button').hide();
-    				$( "#lngurl" ).select();
+					$( "#lngurl" ).select();
 
 					$('#afterreturn').html('<div class="fb-share-button" data-href="'+ data +'" data-width="120" data-type="button"></div> &nbsp;&mdash;&nbsp; <a href="https://twitter.com/share" data-text="Check this out: " data-url="'+ data +'" class="twitter-share-button" data-lang="en" data-count="none">Tweet</a>');
 					$('#afterreturn').show();
