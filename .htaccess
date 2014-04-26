@@ -1,0 +1,14 @@
+DirectoryIndex index.php
+
+FileETag none
+ServerSignature Off
+
+Options All -Indexes
+
+Options +FollowSymLinks  
+RewriteEngine On  
+RewriteBase /
+RewriteCond %{SCRIPT_FILENAME} !-d  
+RewriteCond %{SCRIPT_FILENAME} !-f  
+RewriteRule ^(\w+)$ ./redirect.php?url=$1  
+
